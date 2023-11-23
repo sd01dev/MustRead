@@ -1,4 +1,4 @@
-## Что должен знать каждый разработчик
+## Некоторые базовые темы, с которыми вы вероятно столкнетесь:
 
 Osi model
 * https://selectel.ru/blog/osi-for-beginners/
@@ -15,14 +15,12 @@ JSON
 REST/SOAP, Http methods, Http Status Codes
 * https://www.restapitutorial.com/index.html
 
-SOLID
-* https://habr.com/ru/articles/688530/
-
 Git
 * https://learngitbranching.js.org/
+* https://ru.hexlet.io/courses/intro_to_git
 
 Linux
-* https://learngitbranching.js.org/
+* https://ru.hexlet.io/courses/cli-basics#
 
 Bash
 * https://selectel.ru/blog/tutorials/linux-bash-scripting-guide/
@@ -47,3 +45,24 @@ NoSQL
 
 Сложность алгоритмов
 * https://www.youtube.com/watch?v=cXCuXNwzdfY&ab_channel=AlekOS
+
+SOLID
+* https://habr.com/ru/articles/688530/
+
+ООП
+* https://habr.com/ru/articles/463125/
+
+Паттерны проектирования:
+* https://habr.com/ru/articles/210288/
+
+Roadmaps
+* https://roadmap.sh/computer-science
+* https://roadmap.sh/backend
+
+Bonus:
+* Регулярные выражения
+* Кодировки
+* Базовая криптография на открытых ключах
+
+Операционные системы
+* https://ru.hexlet.io/courses/operating_systems
