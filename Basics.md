@@ -12,8 +12,13 @@ Http/Https
 JSON
 * https://habr.com/ru/articles/554274/
 
-REST/SOAP, Http methods, Http Status Codes
+REST, Http methods, Http Status Codes
 * https://www.restapitutorial.com/index.html
+
+Postman/cURL
+* https://habr.com/ru/companies/vk/articles/750096/
+* https://habr.com/ru/companies/ruvds/articles/699226/
+* https://curl.se/docs/tutorial.html
 
 Git
 * https://learngitbranching.js.org/
@@ -55,14 +60,38 @@ SOLID
 Паттерны проектирования:
 * https://habr.com/ru/articles/210288/
 
-Roadmaps
-* https://roadmap.sh/computer-science
-* https://roadmap.sh/backend
+Docker
+* https://docs.docker.com/language/java/
 
-Bonus:
+Kubernetes
+* https://kubernetes.io/ru/docs/concepts/overview/what-is-kubernetes/
+
+CI\CD
+* https://habr.com/ru/companies/otus/articles/515078/
+
+UUID
+* https://ru.wikipedia.org/wiki/UUID
+
+Аутификация/Авторизация JWT
+* https://habr.com/ru/articles/720842/
+* https://habr.com/ru/articles/340146/
+
+Пирамида тестирования
+* https://habr.com/ru/articles/672484/
+
+System Design
+* https://youtu.be/2xXTeCic_to?si=zZRJQeJjNOeKOZpd
+* Мартин Клеппман: Высоконагруженные приложения. Программирование, масштабирование, поддержка
+
+Кодировки
+* https://habr.com/ru/articles/158639/
+
 * Регулярные выражения
-* Кодировки
-* Базовая криптография на открытых ключах
+  https://habr.com/ru/articles/545150/
 
 Операционные системы
 * https://ru.hexlet.io/courses/operating_systems
+
+Roadmaps
+* https://roadmap.sh/computer-science
+* https://roadmap.sh/backend
